@@ -1,4 +1,4 @@
-# SafeStreets
+# SafeStreets - Project for the Software Engineering course - Politecnico di Milano
 
 <img src="https://raw.githubusercontent.com/Marchingegno/SafeStreets-ingsw2019/master/Implementation/SafeStreetsApp/app/src/main/res/drawable/ic_launcher.png" width=200 height=200></img>
 
