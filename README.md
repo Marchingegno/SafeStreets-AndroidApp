@@ -12,9 +12,9 @@ The municipality also has a web interface to approve or reject reports along wit
 
 The solution is capable of grouping reports of the same violation together based on the position and the plate number.
 
-<img src="https://ibb.co/N2rqn6Q" width=200 height=200></img>
+<img src="Implementation/SafeStreetsApp/app/src/main/res/drawable/safestreetsmap.png" width=600 height=350></img>
 
-## Municipality Web Interface
+### Municipality Web Interface
 The municipality web interface can be found at https://safestreets-project.web.app/
 
 ## Developers
